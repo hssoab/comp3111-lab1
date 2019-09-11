@@ -20,11 +20,4 @@
 		<nature>org.eclipse.jdt.core.javanature</nature>
 		<nature>org.eclipse.buildship.core.gradleprojectnature</nature>
 	</natures>
-	<linkedResources>
-		<link>
-			<name>history.PNG</name>
-			<type>1</type>
-			<location>F:/OneDrive/OneDrive - HKUST Connect/javatrash/Lab1/history.PNG</location>
-		</link>
-	</linkedResources>
 </projectDescription>
